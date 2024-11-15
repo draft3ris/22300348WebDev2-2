@@ -1,7 +1,8 @@
 <h1>웹 서비스 개발 Project 2-2: JSP CRUD w/ DB</h1>
 <h2>By 배현재 22300348</h2>
-<a href="http://walab.handong.edu:8080/OSS24_22300348_1/"><h2>배포된 사이트 URL</h2></a>
-<br</br>
+<h2>배포된 사이트 URL</h2>
+<a href="http://walab.handong.edu:8080/OSS24_22300348_1/">여기로!</a>
+<br>
 <h2>데이터베이스 - 간단한 포럼</h2>
 
 <h3>Field 1: ID</h3>
